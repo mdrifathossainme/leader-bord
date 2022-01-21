@@ -4,3 +4,9 @@ body{
     background-color:#F3F1FF;
     font-family:  'Poppins', sans-serif;
 }
+.rating{
+    display: flex;
+}
+.rating p{
+    margin-left: 10px;
+}
